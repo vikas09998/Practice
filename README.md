@@ -1,2 +1,4 @@
-# Terraform-Landing-Zone
-Hi this Repo is for practice
+# Practice
+
+Hi this Repo is for practice only
+
